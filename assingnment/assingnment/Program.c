@@ -131,7 +131,7 @@ void tinhTienQuanKaraoke() {
 void tinhTienDien() {
     int kwh;
     double tien;
-    char tiep;
+    char tiep; 
     do {
         printf("\n--- TINH TIEN DIEN ---\n");
         printf("Nhap so kWh su dung: ");
