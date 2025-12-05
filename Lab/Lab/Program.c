@@ -5,7 +5,8 @@
 
 int main()
 {
-    printf("Hi there!\n");
+    printf("wecom to school\n");
+    return 0;
 }
 
 // Debug/Run chuong trinh: bam "F5" hoac "Debug > Start Debugging" tren menu
